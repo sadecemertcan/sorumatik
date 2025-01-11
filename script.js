@@ -1,6 +1,6 @@
 class BilgeBaykus {
     constructor() {
-        this.money = 0;
+        this.money = 1000;
         this.level = 1;
         this.streak = 0;
         this.askedQuestions = [];
@@ -48,12 +48,12 @@ class BilgeBaykus {
 
     getDefaultJokers() {
         return {
-            fiftyFifty: 0,
-            skipQuestion: 0,
-            doubleChance: 0,
-            extraTime: 0,
-            doubleMoney: 0,
-            showHint: 0
+            fiftyFifty: 3,
+            skipQuestion: 2,
+            doubleChance: 2,
+            extraTime: 3,
+            doubleMoney: 2,
+            showHint: 3
         };
     }
 
@@ -61,12 +61,13 @@ class BilgeBaykus {
         const savedState = localStorage.getItem('gameState');
         if (savedState) {
             const state = JSON.parse(savedState);
-            this.money = state.money || 0;
-            this.level = state.level || 1;
-            this.streak = state.streak || 0;
-            this.askedQuestions = state.askedQuestions || [];
-            this.jokers = state.jokers || this.getDefaultJokers();
+            this.money = state.money ?? 1000;
+            this.level = state.level ?? 1;
+            this.streak = state.streak ?? 0;
+            this.askedQuestions = state.askedQuestions ?? [];
+            this.jokers = state.jokers ?? this.getDefaultJokers();
         } else {
+            this.money = 1000;
             this.jokers = this.getDefaultJokers();
         }
         this.updateUI();
@@ -379,10 +380,11 @@ class BilgeBaykus {
     }
 
     restartGame() {
-        this.money = 0;
+        this.money = 1000;
         this.level = 1;
         this.streak = 0;
         this.askedQuestions = [];
+        this.jokers = this.getDefaultJokers();
         this.closeSettings();
         this.showQuestion();
         this.updateUI();
