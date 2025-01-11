@@ -128,25 +128,36 @@ class BilgeBaykus {
             return;
         }
 
+        // Mevcut seviyeye uygun ve henüz sorulmamış soruları filtrele
         let availableQuestions = questions.filter(q => 
             !this.askedQuestions.includes(questions.indexOf(q)) && 
             q.level <= this.level
         );
 
+        // Eğer uygun soru kalmadıysa
         if (availableQuestions.length === 0) {
-            if (this.askedQuestions.length === questions.length) {
-                this.showNotification('Tebrikler! Tüm soruları tamamladınız. Sorular yeniden başlayacak.', 'success');
+            // Tüm sorular sorulduysa sıfırla
+            if (this.askedQuestions.length >= questions.length) {
+                this.showNotification('Tüm sorular tamamlandı! Yeni sorulara geçiliyor.', 'success');
                 this.askedQuestions = [];
+                this.level = Math.min(this.level + 1, 3); // Seviyeyi artır ama maksimum 3 olsun
                 availableQuestions = questions.filter(q => q.level <= this.level);
             } else {
-                availableQuestions = questions.filter(q => !this.askedQuestions.includes(questions.indexOf(q)));
+                // Sadece mevcut seviyedeki sorular bittiyse, bir sonraki seviyeye geç
+                this.level = Math.min(this.level + 1, 3);
+                availableQuestions = questions.filter(q => 
+                    !this.askedQuestions.includes(questions.indexOf(q)) && 
+                    q.level <= this.level
+                );
             }
         }
 
+        // Rastgele bir soru seç
         const randomIndex = Math.floor(Math.random() * availableQuestions.length);
         const question = availableQuestions[randomIndex];
         const questionIndex = questions.indexOf(question);
 
+        // Soruyu göster
         document.getElementById('question-text').textContent = question.question;
         
         const optionsContainer = document.querySelector('.options');
@@ -167,7 +178,11 @@ class BilgeBaykus {
         document.querySelector('.category-text').textContent = question.category;
         document.querySelector('.category-icon').className = `category-icon fas ${this.getCategoryIcon(question.category)}`;
 
-        this.askedQuestions.push(questionIndex);
+        // Soruyu sorulmuş olarak işaretle
+        if (!this.askedQuestions.includes(questionIndex)) {
+            this.askedQuestions.push(questionIndex);
+        }
+        
         this.saveGameState();
 
         // Zamanlayıcıyı başlat
