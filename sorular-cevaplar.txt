@@ -1,0 +1,781 @@
+
+    Hangi ünlü oyunda Romeo adında bir karakter yer almaktadır?
+    Cevap: Romeo ve Juliet 
+    Dünyanın en büyük memelisi hangisidir?
+    Cevap: Mavi balina
+    Guacamole'nin ana malzemesi nedir?
+    Cevap: Avokado 
+    "Amerika Birleşik Devletleri'nin Babası" ve ülkenin ilk Başkanı olarak bilinen kişi kimdir?
+    Cevap: George Washington 
+    Mona Lisa'yı kim çizdi?
+    Cevap: Leonardo da Vinci
+    Hangi popüler dondurma aroması genellikle ezilmiş kurabiyelerle yapılır?  
+    Cevap: Kurabiye ve Krema
+    Dünyadaki en büyük okyanusun adı nedir?
+    Cevap: Pasifik Okyanusu 
+    John Lennon solo kariyerine başlamadan önce hangi ünlü müzik grubunun üyesiydi?
+    Cevap: The Beatles 
+    Pamuk Prenses hikayesinde kaç tane cüce var?
+    Cevap: Yedi
+    Yunan mitolojisinde tanrıların kralı kimdir?
+    Cevap: Zeus 
+    Arılar bal yapmak için ne toplar?
+    Cevap: Nektar
+    Güneş sistemimiz hangi galakside yer almaktadır?
+    Cevap: Samanyolu
+    "Mavi Gezegen" olarak bilinen gezegen hangisidir?
+    Cevap: Dünya
+    Hangi geometrik şekil dört eşit kenara ve dört dik açıya sahiptir?
+    Cevap: Kare
+    Suşi yemeğinin ana malzemesi nedir?
+    Cevap: Pirinç
+
+    
+    Moğolistan'ın başkenti neresidir?
+    Cevap: Ulan Batur
+    İnsanlar arasında en nadir bulunan kan grubu hangisidir?
+    Cevap: AB-negatif
+    Kral VIII. Henry'nin kaç karısı vardı?
+    Cevap: Altı
+    Serena Williams ilk Grand Slam tekler şampiyonluğunu hangi yıl kazandı?
+    Cevap: 1999 (ABD Açık)
+    İlk modern Olimpiyat Oyunları hangi yıl ve hangi şehirde düzenlendi?
+    Cevap: 1896'da Yunanistan'ın Atina kentinde düzenlendi
+    Toz ve kum duvarı taşıyan, görüş mesafesini azaltan ve tehlikeli koşullara neden olan güçlü rüzgarlarla karakterize edilen bir kum fırtınası türünü tanımlamak için kullanılan özel terim nedir? 
+    Cevap: Haboob
+    Benjamin Franklin, Amerika Birleşik Devletleri Anayasası'nın taslağının hazırlanmasında önemli bir figürdü. 1787'deki Anayasa Konvansiyonu sırasında hangi eyaleti temsil etti?
+    Cevap: Pensilvanya
+    Facebook'u kurmadan önce Mark Zuckerberg, kullanıcıların iki kişinin çekiciliğini yan yana karşılaştırmasına izin veren bir web sitesi oluşturdu. Bu web sitesinin adı neydi? 
+    Cevap: Facemash
+    20. yüzyılın başlarında, “Bib-Label Lithiated Lemon-Lime Soda” adlı bir meşrubat lityum içerdiği için biliniyordu. Daha sonra hangi şirket bu içeceği satın aldı ve onu bugün bildiğimiz popüler bir limon-limon meşrubatına dönüştürdü?
+    Cevap: Coca-Cola Company (7UP olarak yeniden markaladılar)
+    Bhutan'ın başkenti neresidir?
+    Cevap: Thimphu
+    Matematikte, asal sayı olmayan ve iki çarpandan fazla çarpanı olan sayının adı nedir?
+    Cevap: Bileşik sayı
+    Yunan savaş tanrısı ve Zeus ile Hera'nın oğlu kimdir?
+    Cevap: Ares
+    Beynin tabanındaki hareket ve dengeyi koordine eden "küçük beyin" için bilimsel terim nedir?
+    Cevap: Serebellum
+    Civa elementinin kimyasal sembolü nedir?
+    Cevap: Hg
+    Jüpiter'in en büyük uydusunun adı nedir?
+    Cevap: Ganymede
+
+    
+    Flamingolardan oluşan bir grubun terimi nedir?
+    Cevap: Gösterişlilik
+    Yan tarafına doğru dönen tek gezegen hangisidir?
+    Cevap: Uranüs
+    En uzun hıçkırık nöbeti dünya rekoru nedir?
+    A. 68 yıl
+    B. 50 yıl
+    C. 82 yıl
+    Cevap: A. 68 yıl 
+    İskoçya'nın resmi hayvanı nedir?
+    Cevap: Unicorn
+    Güldüğü bilinen ve mizah duygusuna sahip olduğu kanıtlanmış hayvan hangisidir?
+    Cevap: Sıçanlar
+    Güneydoğu Asya'da "meyvelerin kralı" olarak bilinen ve güçlü kokusu nedeniyle birçok otelde ve toplu taşımada yasaklanan meyve hangisidir?
+    Cevap: Durian 
+    Palyaço korkusuna ne ad verilir?
+    Cevap: Koulrofobi
+    Hangi hayvanın sütü pembedir?
+    Cevap: Su aygırı
+    Dünyanın en kuzeydeki başkenti hangisidir?
+    Cevap: Reykjavik, İzlanda
+    Londra Büyük Yangını hangi yılda meydana geldi?
+    Cevap: 1666
+    
+    Berlin Duvarı hangi yılda yıkıldı?
+    Cevap: 1989
+    Brezilya'nın başkenti neresidir?
+    Cevap: Brasília
+    "Gurur ve Önyargı"yı kim yazdı?
+    Cevap: Jane Austen
+    "Modern Fiziğin Babası" olarak bilinen kişi kimdir?
+    Cevap: Albert Einstein
+    Dünyanın en uzun dağ sırası hangisidir?
+    Cevap: And Dağları 
+    Dünyanın en büyük adası hangisidir?
+    Cevap: Grönland 
+    Gümüşün kimyasal sembolü nedir?
+    Cevap: Ag
+    "Belleğin Azmi" tablosunu kim çizdi?
+    Cevap: Salvador Dali 
+    İnsan vücudundaki en büyük kemik hangisidir?
+    Cevap: Femur
+    Barack Obama, Başkan olmadan önce hangi eyaletten ABD Senatörü olarak görev yaptı?
+    Cevap: Illinois
+    Titanic hangi yıl battı?
+    Cevap: 1912
+    Arjantin'in başkenti neresidir?
+    Cevap: Buenos Aires
+    Ünlü "Son Akşam Yemeği" sanat eserini kim çizdi?
+    Cevap: Leonardo da Vinci
+    II. Dünya Savaşı hangi yılda sona erdi?
+    Cevap: 1945
+    Japonya'nın para birimi nedir?
+    Cevap: Japon Yeni
+    
+    Disney filmindeki küçük deniz kızının adı nedir?
+    Cevap: Ariel
+    Uzun boynu ve vücudundaki beneklerle bilinen hayvan hangisidir?
+    Cevap: Zürafa
+    "Oyuncak Hikayesi" filmindeki oyuncak kovboyun adı nedir?
+    Cevap: Woody
+    Bir balık grubuna ne ad verirsiniz?
+    Cevap: Okul
+    Yapraklar ağaçlardan hangi mevsimde düşer?
+    Cevap: Sonbahar/Sonbahar
+    Gökkuşağında kaç renk vardır?
+    Cevap: Yedi
+    Çevresine uyum sağlamak için renk değiştirme yeteneğiyle bilinen hayvan hangisidir?
+    Cevap: Bukalemun
+    Zıplamasıyla bilinen ve yavrularını taşımak için bir kesesi olan hayvan hangisidir?
+    Cevap: Kanguru 
+    Hangi masalda balkabağı arabaya dönüşür?
+    Cevap: Külkedisi
+    Uzun hortumu ve büyük kulaklarıyla bilinen hayvan hangisidir?
+    Cevap: Fil
+    Mickey Mouse'un köpeğinin adı nedir?
+    Cevap: Plüton
+    "Kızıl Gezegen" olarak bilinen gezegen hangisidir?
+    Cevap: Mars
+    Şirinler'in ana rengi nedir?
+    Cevap: Mavi
+    Çocuk tekerlemesinde, BINGO adında bir köpeği olan bir çiftliği olan kimdi?
+    Cevap: Old MacDonald
+    Duyduğu kelimeleri ve ifadeleri tekrarlayabilen, genellikle evcil hayvan olarak beslenen kuş hangisidir?
+    Cevap: Papağan
+    
+    iPhone'un ilk modeli hangi yıl piyasaya sürüldü?
+    Cevap: 2007
+    Çoğu bilgisayarda "kopyala" işlevi için kısayol nedir?
+    Cevap: ctrl c
+    Genellikle belleğin en küçük birimi olarak ne görülür?
+    Cevap: kilobayt
+    Java bir işletim sistemi türü müdür?
+    Cevap: Hayır
+    Bilgisayarın babası olarak sıklıkla anılan kişi kimdir?
+    Cevap: Charles Babbage
+    "HTTP" ne anlama geliyor?
+    Cevap: HyperText Transfer Protocol
+    1995 yılında eBay'i kuran adamın adı nedir?
+    Cevap: Pierre Omidyar
+    Hangi e-posta hizmeti Microsoft'a aittir?
+    Cevap: Hotmail
+    Google Chrome, Safari, Firefox ve Explorer farklı türde nelerdir?
+    Cevap: Web tarayıcıları
+    Twitter'ın orijinal adı neydi?
+    Cevap: twttr
+    Android uygulamaları geliştirmek için hangi programlama dili sıklıkla kullanılır?
+    Cevap: Java
+    Linus Torvalds tarafından oluşturulan açık kaynaklı işletim sisteminin adı nedir?
+    Cevap: Linux
+    E-posta bağlamında, "CC" ne anlama geliyor?
+    Cevap: Carbon Copy
+    Bilgisayarda "CPU" ne anlama geliyor?
+    Cevap: Merkezi İşlem Birimi
+    İlk ticari olarak satılan bilgisayar faresini hangi şirket geliştirdi?
+    Cevap: Xerox
+    
+    Penisilini kim keşfetti?
+    Cevap: Alexander Fleming
+    Nobel Ödülü'nü kazanan ilk kadın kimdi (1903'te)?
+    Cevap: Marie Curie
+    Atomun hangi kısmında elektrik yükü yoktur?
+    Cevap: Nötron
+    Potasyumun sembolü nedir?
+    Cevap: K
+    Meteoroloji neyi inceler?
+    Cevap: Hava durumu
+    Güneş sistemindeki en sıcak gezegen hangisidir?
+    Cevap: Venüs
+    Hangi doğal afet Richter ölçeğiyle ölçülür?
+    Cevap: Depremler
+    İnciler hangi hayvanlarda bulunur?
+    Cevap: İstiridyeler
+    Hangi gezegenin en fazla yer çekimi vardır?
+    Cevap: Jüpiter
+    Ozon kaç tane oksijen molekülüne sahiptir?
+    Cevap: Üç
+    
+    Hawkeye'ın gerçek adı nedir?
+    Cevap: Clint Barton
+    Hulk'u sakinleştirebilen tek kişi hangi Avenger'dır?
+    Cevap: Black Widow
+    X-Men üyesi Night Crawler'ın ne tür güçleri var?
+    Cevap: Işınlanabilir mi ?
+    Vormir'de hangi sonsuzluk taşı bulunuyordu?
+    Cevap: Ruh Taşı
+    Hangi orijinal Avenger ilk birkaç filmde yoktu?
+    Cevap: Wasp
+    Superman'in doğum adı neydi?
+    Cevap: Kal-El
+    Batman'in uşağının adı nedir?
+    Cevap: Alfred
+    Aquaman deniz altındaki hangi şehirdendir?
+    Cevap: Atlantis
+    Green Lantern'ın düşmanı kimdir?
+    Cevap: Sinestro
+    DC ne anlama geliyor?
+    Cevap: Detective Comics
+    
+    Frozen filminde Kraliçe Elsa'nın buzdan kalesini inşa ederken söylediği şarkının adı nedir?
+    Cevap: Let It Go
+    Sean Connery kaç filmde James Bond'u canlandırdı?
+    Cevap: Yedi
+    Hangi Indiana Jones filmi 1984 yılında yayınlandı?
+    Cevap: Indiana Jones ve Kıyamet Tapınağı
+    Kaç tane Yüzüklerin Efendisi filmi var?
+    Cevap: Üç
+    Titanic'te Jack Dawson'ı oynayan aktörün adı neydi?
+    Cevap: Leonardo DiCaprio
+    Hangi popüler TV dizisinde Targaryen ve Stark hanedanı yer aldı?
+    Cevap: Game of Thrones
+    7th Heaven'da rol alan ailenin adı neydi ?
+    Cevap: Camdens
+    Deniz altında bir ananasın içinde yaşayan çizgi film karakteri hangisidir?
+    Cevap: Sünger Bob Kare Pantolon
+    South Park'ın ilk bölümü hangi yıl yayınlandı?
+    Cevap: 1997
+    2020 yapımı "Joker" filmindeki rolüyle En İyi Erkek Oyuncu Akademi Ödülü'nü kim kazandı?
+    Cevap: Joaquin Phoenix
+    "Forrest Gump" filminde Forrest'ın annesi hayatın nasıl olduğunu hangi ünlü cümleyle anlatır?
+    Cevap: "Hayat bir kutu çikolata gibidir; ne alacağınızı asla bilemezsiniz."
+    Hangi animasyon filminde Simba adlı bir karakter yer alır ve "Circle of Life" şarkısı da yer alır?
+    Cevap: Aslan Kral
+    1994 yapımı “Pulp Fiction” filmini kim yönetti?
+    Cevap: Quentin Tarantino
+    "Esaretin Bedeli" filminde Tim Robbins'in canlandırdığı ana karakterin adı nedir?
+    Cevap: Andy Dufresne
+    “Casablanca” filminde Humphrey Bogart’ın canlandırdığı Rick Blaine karakteri, Ingrid Bergman’ın canlandırdığı Ilsa Lund’a hangi ünlü repliği söylüyor?
+    Cevap: “Sana bakıyorum evlat.”
+    
+    Hangi aktör "Face Off" ve "Ghost Rider" filmlerinde rol aldı?
+    Cevap: Nicholas Cage
+    Wolverine'i kim oynadı?
+    Cevap: Hugh Jackman
+    2003 yılında En İyi Kadın Oyuncu Oscar'ını hangi oyuncu kazandı?
+    Cevap: Nicole Kidman
+    Genç Victoria'yı hangi İngiliz aktris canlandırdı?
+    Cevap: Emily Blunt
+    Coco Gauff, Venus Williams'ı ilk yendiğinde kaç yaşındaydı?
+    Cevap: 15
+    Usain Bolt 100m'yi 9.58 saniyede koşarak dünya rekorunu hangi yıl kırdı?
+    Cevap: 2009
+    Rafael Nadal Mart 2020'ye kadar Fransa Açık'ı kaç kez kazandı?
+    Cevap: 12
+    Michael Jordan, Chicago Bulls'ta oynadığında kaç NBA Şampiyonluğu kazandı?
+    Cevap: Altı
+    Forbes 2019'da kendi kendini yetiştiren en genç milyarderi kim olarak adlandırdı?
+    Cevap: Kylie Jenner
+    2020'de transseksüel olduğunu açıklayan Hollandalı makyaj sanatçısı hangisidir?
+    Cevap: De Jager
+    
+    West Side Story'nin ilk Broadway prodüksiyonunda Anita'yı kim oynadı?
+    Cevap: Chita Rivera
+    Broadway hangi ABD şehrinde bulunmaktadır?
+    Cevap: New York City
+    En uzun süredir sahnelenen Broadway gösterisi hangisidir?
+    Cevap: Operadaki Hayalet
+    Broadway'de şimdiye kadar en çok hasılat yapan yapım hangisidir?
+    Cevap: Aslan Kral
+    Broadway hangi yılda kuruldu?
+    Cevap: 1750
+    Bale hangi dönemde ortaya çıkmıştır?
+    Cevap: İtalyan Rönesansı
+    Fındıkkıran hangi yılın hangi zamanında sahnelenir?
+    Cevap: Noel mevsiminde
+    Hangi Fransız bale terimi 'ön tarafta' anlamına gelir?
+    Cevap: Devant
+    20. yüzyılın başlarındaki en iyi erkek bale dansçısı kimdi ?
+    Cevap: Vaslav Nijinsky
+    Balede plié nedir?
+    Cevap: Dizlerden bükülme
+
+    Dünyanın ilk arabasını kimin yarattığı sıklıkla kabul edilir?
+    Cevap: Karl Benz
+    Porsche logosunda hangi hayvan görülebilir?
+    Cevap: At
+    Büyük Üçlü'nün hangi şirketleri var?
+    Cevap: General Motors, Fiat Chrysler Automobiles ve Ford Motor Company
+    Bugatti, Lamborghini, Audi, Porsche ve Ducati'nin sahibi hangi şirkettir?
+    Cevap: Volkswagen
+    Emniyet kemerini ilk sunan otomobil markası hangisidir?
+    Cevap: Nash Motors
+    BMW (İngilizce) ne anlama geliyor?
+    Cevap: Bavarian Motor Works
+    Ford Mustang ismini neyden veya kimden almıştır?
+    Cevap: II. Dünya Savaşı'ndan kalma bir savaş uçağı
+    Ortalama bir arabada kaç parça (vidalar ve cıvatalar dahil) vardır?
+    Cevap: 30.000
+    Hangi arabaya genellikle ilk kaslı araba denir?
+    Cevap: Pontiac GTO
+    Corvette hangi yılda tanıtıldı?
+    Cevap: 1953
+
+    Her takımın her maçın başlangıcında sahada kaç futbolcusu olmalıdır?
+    Cevap: 11
+    Michael Jordan, Chicago Bulls'ta oynadığında kaç NBA Şampiyonluğu kazandı?
+    Cevap: Altı
+    Hangi Williams kız kardeşi daha fazla Grand Slam şampiyonluğu kazandı?
+    Cevap: Serena
+    1930 yılında ilk FIFA Dünya Kupası'nı hangi ülke kazandı?
+    Cevap: Uruguay
+    İlk Wimbledon Şampiyonası hangi yılda düzenlendi?
+    Cevap: 1877
+    En fazla Grand Prix galibiyeti rekorunu hangi yarışçı elinde tutuyor?
+    Cevap: Lewis Hamilton
+    11 kez dünya şampiyonu olan ve 100 ve 200 metre yarışlarında rekoru elinde tutan Jamaikalı koşucu hangisidir?
+    Cevap: Usain Bolt
+    Hangi boksör "En Büyük" ve "Halkın Şampiyonu" olarak biliniyordu?
+    Cevap: Muhammed Ali
+    Jesse Owens hangi sporla ilgileniyordu?
+    Cevap: Atletizm
+    Wayne Gretzky 80'lerde hangi hokey takımında oynadı?
+    Cevap: Edmonton Oilers
+
+    Kuru eriklerin genel adı nedir?
+    Cevap: Kuru erik
+    Geyik etinin adı nedir?
+    Cevap: Geyik eti
+    "Mısır"ın başka hangi adı var?
+    Cevap: Mısır
+    Humusun birincil malzemesi nedir?
+    Cevap: Nohut
+    Dünyada en çok kahveyi hangi ülke üretiyor?
+    Cevap: Brezilya
+    Çayı hangi ülke icat etti?
+    Cevap: Çin
+    Rusya'nın meşhur içkisi hangisidir?
+    Cevap: Votka
+    İspanya'nın ulusal yemeği nedir?
+    Cevap: Paella
+    Sosisli sandviçi icat eden Avrupa ülkesi hangisidir?
+    Cevap: Almanya
+    Bize pizza ve makarnayı veren ülke hangisidir?
+    Cevap: İtalya
+    Vietnam çorbası pho'nun ana malzemesi nedir?
+    Cevap: Pirinç eriştesi
+    Kahveye batırılmış kedi dili bisküvileri ve mascarpone peyniri ile yapılan İtalyan tatlısının adı nedir?
+    Cevap: Tiramisu
+    Popüler Japon yemeği tempuranın birincil malzemesi nedir?
+    Cevap: Hamurla kaplanmış ve kızartılmış deniz ürünleri veya sebzeler
+    Hangi popüler meşrubat 19. yüzyılda bir ilaç olarak yaratıldı?
+    Cevap: Coca-Cola
+    Hangi ülke çikolatasıyla ünlüdür ve Lindt ve Toblerone gibi markalara ev sahipliği yapmaktadır?
+    Cevap: İsviçre
+
+    Hangi organın dört odası vardır?
+    Cevap: Kalp
+    Uyluk kemiğini vücudun hangi bölümünde bulabilirsin?
+    Cevap: Bacak
+    Vücudunuzun en büyük organı hangisidir?
+    Cevap: Cilt
+    Beyinde hangi tür hücreler bulunur?
+    Cevap: Nöronlar
+    Bebekler hangi kemik olmadan doğarlar?
+    Cevap: Diz kapağı
+    Ortalama bir insan dilinin kaç tane tat tomurcuğu vardır?
+    Cevap: 10.000
+    Vücudumuzun yüzde kaçı sudan oluşur?
+    Cevap: %60-65
+    Kemikleri güçlü tuttuğu söylenen element hangisidir?
+    Cevap: Kalsiyum
+    AIDS kısaltması neyi ifade ediyor?
+    Cevap: Edinilmiş Bağışıklık Yetmezliği Sendromu
+    Kalp günde kaç kez atıyor?
+    Cevap: Yaklaşık 100.000
+Güney Amerika'nın batı kıyısının yarısından fazlasını kaplayan ince ve uzun ülkenin adı nedir?
+Cevap: Şili
+Hangi Amerikan eyaleti en büyüktür (alanına göre)?
+Cevap: Alaska
+Hangi iki ülke en uzun uluslararası sınırı paylaşıyor?
+Cevap: Kanada ve ABD
+Dünyanın en küçük ülkesi hangisidir?
+Cevap: Vatikan Şehri
+Hangi kıta en büyüktür?
+Cevap: Asya
+Yedi Harikadan hangisi Mısır'da bulunur?
+Cevap: Giza Piramitleri
+Yeni Zelanda'nın başkenti neresidir?
+Cevap: Wellington
+Dünyanın en büyük çölü hangisidir?
+Cevap: Sahra Çölü (daha büyük olan Antarktika da çöl olarak kabul edilebilir)
+Dünyanın en uzun nehrinin adı nedir?
+Cevap: Nil
+Hindistan'ın hangi şehrinde Tac Mahal'i bulursunuz?
+Cevap: Agra
+Akdeniz'deki en büyük ada hangisidir?
+Cevap: Sicilya
+Hangi nehir Büyük Kanyon'dan geçer?
+Cevap: Colorado Nehri
+Hangi ülke Doğan Güneş Ülkesi olarak bilinir?
+Cevap: Japonya
+Hangi Afrika ülkesi "Afrika'nın İncisi" olarak bilinir?
+Cevap: Uganda
+Hangi Asya nehri en uzun olarak kabul edilir?
+Cevap: Yangtze Nehri
+    Mısır kralları/hükümdarları hangi adla biliniyordu?
+    Cevap: Firavunlar
+    Giza Piramitleri kaç tane yapılmıştır?
+    Cevap: Üç
+    Julius Sezar hangi kraliçeyle ilişki yaşadı?
+    Cevap: Kleopatra
+    Franklar Romalıları yendikten sonra nereye yerleştiler?
+    Cevap: Galya
+    Orta Çağ ne kadar sürdü?
+    Cevap: Yaklaşık 1000 yıl
+    Orta Çağ'a hangi din hakimdi?
+    Cevap: Katoliklik
+    1. Dünya Savaşı hangi yılda başladı?
+    Cevap: 1914
+    Adolf Hitler hangi ülkede doğdu?
+    Cevap: Avusturya
+    John F. Kennedy hangi şehirde suikasta uğradı?
+    Cevap: Dallas
+    18 Haziran 1815 Pazar günü hangi ünlü savaş gerçekleşti?
+    Cevap: Waterloo Muharebesi
+    Birinci Dünya Savaşı'nın başlangıcını hangi olay belirlemiştir?
+    Cevap: Arşidük Franz Ferdinand'ın suikastı
+    II. Dünya Savaşı sırasında Sovyetler Birliği'nin lideri kimdi?
+    Cevap: Joseph Stalin
+    Mısır'ın İskenderiye şehrinde hangi antik harikalar bulunuyordu?
+    Cevap: İskenderiye Feneri
+    Kırım Savaşı sırasında yaptığı çalışmalarla tanınan ve modern hemşireliğin kurucusu olarak kabul edilen ünlü hemşire kimdir?
+    Cevap: Florence Nightingale
+    1620 yılında Hacılar'ı Amerika'ya getiren geminin adı neydi?
+    Cevap: Mayflower
+
+    Justin Timberlake'in bir zamanlar parçası olduğu grubun adı neydi?
+    Cevap: N' SYNC
+    Jimmy Page tarafından kurulan rock grubunun adı neydi?
+    Cevap: Led Zeppelin
+    AC/DC hangi ülkede ortaya çıktı?
+    Cevap: Avustralya
+    Taylor Swift hangi müzik türüyle başladı?
+    Cevap: Country
+    80'lerin ikonik grubu Culture Club'ın solisti kimdi?
+    Cevap: Boy George
+    Rapçi Sean Combs hangi isimle daha iyi tanınır?
+    Cevap: P. Diddy
+    Jay-Z hangi müzik efsanesiyle evlidir?
+    Cevap: Beyonce
+    John Legend'ın kaç Grammy'si var?
+    Cevap: On
+    Hangi İngiliz kız grubunun Mel B adında bir üyesi vardır?
+    Cevap: Spice Girls
+    Genellikle "Pop Kralı" olarak anılan ve "Thriller" ve "Billie Jean" gibi ikonik hitleriyle tanınan kişi kimdir?
+    Cevap: Michael Jackson
+
+    Yunan Tanrılarının evinin adı nedir?
+    Cevap: Olimpos
+    Hangi savaşçının zayıf noktası topuğuydu?
+    Cevap: Aşil
+    Tanrıların habercisi kimdi?
+    Cevap: Hermes
+    Ölümden sonra cennet savaşçılarının gittiği yerin adı nedir?
+    Cevap: Valhalla
+    Thor hangi Tanrının oğludur?
+    Cevap: Odin
+    Romulus ve Remus hangi hayvan tarafından büyütüldü?
+    Cevap: Dişi bir kurt
+    Roma Savaş Tanrısı hangi gezegenin ismine ilham kaynağı olmuştur?
+    Cevap: Mars
+    Mısır Güneş Tanrısı'nın adı neydi?
+    Cevap: Ra
+    Ölüm Tanrısı Anubis'in kafası bir ...
+    Cevap: Çakal
+    Set, Osiris'i bir tabuta kandırdıktan sonra hangi nehre atar?
+    Cevap: Nil
+
+    Lincoln'ün altı ciltlik biyografisiyle ünlenen yazar hangisidir?
+    Cevap: Carl Sandburg
+    "Yaşlı Adam ve Deniz" adlı eseri kim yazmıştır ve 20. yüzyılın en büyük yazarlarından biri olarak kabul edilir ? Cevap
+    : Ernest Hemingway
+    Birçok kişi tarafından en üretken masal yazarı olarak kabul edilen Danimarkalı yazar hangisidir?
+    Cevap: Hans Christian Andersen
+    “Venedik Taciri”nin yazarı kimdir?
+    Cevap: William Shakespeare
+    "Sherlock Holmes Macerası" hangi yazar tarafından yazılmıştır?
+    Cevap: Arthur Conan Doyle
+    Harry Potter serisinin dördüncü kitabının adı nedir?
+    Cevap: Harry Potter ve Ateş Kadehi
+    Açlık Oyunları serisi hangi yazar tarafından yazılmıştır?
+    Cevap: Suzanne Collins
+    Ezop Masalları'nın hangi ülkede ortaya çıktığına inanılıyor?
+    Cevap: Yunanistan
+    Herman Melville'in "Moby Dick" adlı romanında sadık, makul birinci kaptan kimdi?
+    Cevap: Starbuck
+    "Da Vinci Şifresi" kitabı kim tarafından yazılmıştır?
+    Cevap: Dan Brown
+    "Yüzyıllık Yalnızlık" romanını kim yazdı?
+    Cevap: Gabriel García Márquez
+    Klasik çocuk kitabı “Charlotte's Web”i kim yazdı?
+    Cevap: EB White
+    Homeros'a atfedilen, Truva Savaşı'nı anlatan klasik Yunan destanının adı nedir?
+    Cevap: İlyada
+    Jules Verne'in "Denizler Altında Yirmi Bin Fersah" adlı eserindeki başkahramanın adı nedir?
+    Cevap: Kaptan Nemo
+    Gotik roman "Frankenstein; or, The Modern Prometheus"u kim yazdı?
+    Cevap: Mary Shelley
+960'ların en ünlü kadın Amerikan moda ikonu olarak kim görülüyor?
+Cevap: Jacqueline Kennedy
+1939 yılında Ralph Lifshitz adıyla doğan Amerikalı tasarımcı daha çok ne olarak bilinir?
+Cevap: Ralph Lauren
+Reklama göre "hayatımızın dokusu nedir"?
+Cevap: Pamuk
+LBD'yi (küçük siyah elbise) kim icat etti?
+Cevap: Coco Chanel
+Parkerlar, trençkotlar, bomberlar ve bezelyeler hangi kışlık dış giyim türleridir?
+Cevap: Montlar
+1983 yapımı "Flashdance" filmi hangi moda akımını popüler hale getirdi?
+Cevap: Bacak ısıtıcıları
+Moda tasarımcısı Gianni Versace hangi ülkedendir?
+Cevap: İtalya
+Nike şirketi ne zaman kuruldu?
+Cevap: 1971
+Levi's logosunda hangi hayvan var?
+Cevap: At
+Guinness Dünya Rekorları'na giren "Genius Jeans"i hangi moda markası üretti?
+Cevap: Gucci
+Ünlülerin tasarımcı kıyafetlerini sergiledikleri, genellikle modanın Oscar'ları olarak kabul edilen kırmızı halı etkinliğinin adı nedir?
+Cevap: Met Gala
+Moda dünyasında "Haute Couture" ne anlama geliyor?
+Cevap: Üst düzey, özel yapım moda
+Kiltlerde ve diğer giyim eşyalarında sıklıkla görülen geleneksel İskoç kumaş deseni nedir?
+Cevap: Tartan veya ekose
+Hangi İtalyan moda tasarımcısı, özellikle ipek eşarplardaki renkli ve cesur baskılarıyla ünlüdür?
+Cevap: Emilio Pucci
+Monogramlı çantaları ve bavullarıyla tanınan Fransız lüks moda evinin adı nedir?
+Cevap: Louis Vuitton
+    Dünyanın en yüksek binası hangisidir?
+    Cevap: Burj Khalifa
+    Empire State binasının inşası ne zaman başladı?
+    Cevap: 1929
+    Sydney Opera Binası'nı kim tasarladı?
+    Cevap: Jorn Utzon
+    1933 ile 1947 yılları arasında Hoover Barajı'na ne ad verildi?
+    Cevap: Boulder Barajı
+    Petronas Kuleleri'ni nerede bulabilirsiniz?
+    Cevap: Kuala Lumpur
+    Bideyi kim icat etti?
+    Cevap: Christophe Des Rosiers
+    Amerika Birleşik Devletleri'nde bulunan en küçük yatak boyutu nedir?
+    Cevap: Twin
+    Çizgili, şeritli, çiçekli ve ekoseli kumaşlar neye örnektir?
+    Cevap: Desenler
+    Hangi tasarım stilinde çok sayıda deniz/okyanus temalı ürün kullanılır?
+    Cevap: Denizci
+    Ayak dayanağının başka bir adı nedir?
+    Cevap: Osmanlı
+
+    Hangi Amerikan başkanı Watergate skandalına karışmıştır?
+    Cevap: Nixon
+    Her ikisi de ABD başkanlığı yapmış olan baba-oğul ikilisinin soyadları nelerdir?
+    Cevap: Adams ve Bush
+    Kaç başkan görevden alındı?
+    Cevap: Üç
+    2000 yılında yasalar değiştirilmeden önce, bir Fransız cumhurbaşkanının görev süresi ne kadardı?
+    Cevap: Yedi yıl
+    Birleşik Krallık'ın en uzun süre tahtta kalan hükümdarı kimdir?
+    Cevap: Kraliçe II. Elizabeth
+    1. Dünya Savaşı hangi ülkenin Arşidükü Franz Ferdinand'ın ölümüyle başladı?
+    Cevap: Avusturya
+    Donald Trump ve hangi Kuzey Kore liderinin internet üzerinden tehdit alışverişinde bulunduğu biliniyor?
+    Cevap: Kim Jong Un
+    Mao Zedong neyle ünlüydü?
+    Cevap: Çin Komünist Partisini İç Savaş sırasında zafere götürmesiyle
+    Lider ve siyasi ikon Nelson Mandela hangi Afrika ülkesindendi?
+    Cevap: Güney Afrika
+    Güney Afrika'nın en büyük siyasi partisi olan ANC neyi temsil ediyor?
+    Cevap: Afrika Ulusal Kongresi
+
+    Yemin altında yapılan gönüllü yazılı beyanın yasal terimi nedir?
+    Cevap: Yeminli ifade
+    Bir suçtan daha az ciddi olan suç sınıflandırmasının adı nedir?
+    Cevap: Kabahat
+    Bir hüküm bir…
+    Cevap: Karar veya hüküm
+    Mahkemede bir kişinin gördüğü veya bildiği her şeyi anlattığı kanıt nedir?
+    Cevap: Tanıklık
+    Mahkemede karar vermek/hüküm vermek üzere yemin eden insan grubu kimdir?
+    Cevap: Jüri
+    OJ Simpson cinayet davasında karar neydi?
+    Cevap: Suçsuz
+    Ted Bundy kaç cinayeti kabul etti?
+    Cevap: 30
+    Ted Kaczynski hangi üniversitenin eski mezunudur?
+    Cevap: Harvard
+    Gregory Lee Johnson 1989'da Teksas'ta hangi suçtan hüküm giydi?
+    Cevap: Bayrak yakmak
+    Butch Cassidy neyle ünlüydü?
+    Cevap: Çalmak
+    Bir mahkeme salonunda, ceza davalarında hükümeti temsil etmekten kim sorumludur?
+    Cevap: Savcı
+    Savcılık ile sanık arasında, sanığın daha az ceza karşılığında suçunu kabul ettiği anlaşmanın terimi nedir?
+    Cevap: Savunma pazarlığı
+    Amerika Birleşik Devletleri'nde Yasak Dönemi'nde Al Capone liderliğindeki hangi suç örgütü meşhurdu?
+    Cevap: Chicago Outfit
+    1888'de Londra'nın Whitechapel semtinde terör estiren ve asla yakalanamayan kimliği belirsiz seri katil hangisidir?
+    Cevap: Jack the Ripper
+    Bir kişinin itibarına zarar veren, genellikle sözlü veya yazılı, kasıtlı yanlış iletişimin yasal terimi nedir?
+    Cevap: İftira
+
+    Bir Afrika filinin gebelik süresi ne kadardır?
+    Cevap: 22 ay
+    Bir kurdun bilimsel adı nedir? 
+    Cevap: Canis lupus
+    Dişi eşeğe ne denir?
+    Cevap: A Jenny
+    Hangi memelinin ses telleri yoktur?
+    Cevap: Zürafa
+    Dünyanın en hızlı kara hayvanı hangisidir?
+    Cevap: Çita
+    Bir arının kaç gözü vardır?
+    Cevap: Beş
+    Avrupa'da hangi hayvan iyi şansı sembolize eder?
+    Cevap: Uğur böceği
+    Bir grup kurbağaya atıfta bulunmak için hangi isim kullanılır?
+    Cevap: Bir ordu
+    Bir ahtapotun kaç kalbi vardır?
+    Cevap: Üç
+    Süngerlerin kalbi var mıdır?
+    Cevap: Hayır
+    Dünyanın en büyük yaşayan sürüngeni hangisidir?
+    Cevap: Tuzlu su timsahı
+    En büyük ayı türü hangisidir?
+    Cevap: Kutup Ayısı
+    Kuzey Amerika'ya özgü tek keseli hayvan hangisidir?
+    Cevap: Opossum
+    Hangi deniz hayvanı, renk değiştirme ve çevresinde kendini kamufle etme yeteneğiyle bilinir?
+    Cevap: Ahtapot
+    Şarkı benzeri seslendirmeleriyle bilinen büyük deniz memelisi hangisidir?
+    Cevap: Balina
+
+    2021 yılı itibariyle dünyanın en zengin kişisi kimdir?
+    Cevap: Elon Musk
+    Bill Gates hangi şirketin kurucusudur?
+    Cevap: Microsoft
+    Steve Jobs hangi yıl öldü?
+    Cevap: 2011
+    Larry Page hangi şirketin CEO'sudur?
+    Cevap: Google
+    Richard Branson hangi havayolunun sahibidir?
+    Cevap: Virgin Atlantic
+    Volkswagen dünyada hangi aracıyla en çok tanınır?
+    Cevap: Beetle
+    Hangi saat şirketinin logosu sivri bir kurma koluna sahiptir?
+    Cevap: Rolex
+    Apple Inc.'in sloganı nedir?
+    Cevap: Farklı düşün
+    Hewlett Packard (HP) başlangıçta neyle tanınıyordu?
+    Cevap: Yazıcılar
+    Adidas'ın kaç çizgisi var?
+    Cevap: 3
+
+    Tavla nereden çıktı?
+    Cevap: İran'da
+    Uno destesinde kaç kart vardır?
+    Cevap: 108
+    Hangi masa oyununda bir cinayeti çözmeye çalışıyorsunuz?
+    Cevap: İpucu
+    Satrançta, kraliçe hangi iki taşın birleşik hareketine sahiptir?
+    Cevap: Fil ve kale
+    Aşağıdaki oyunlardan hangisinde "Başlamazsan 200$ toplamazsın" ifadesi yer alır?
+    Cevap: Monopoly
+    "Happy Feet" adlı video oyununda hangi hayvanlar yer alır?
+    Cevap: Penguenler
+    Hangi klasik video oyunu bir labirentteki tüm noktaları yemenizi gerektirir?
+    Cevap: Pac-Man
+    Hangi Street Fighter karakteri beyaz kıyafet ve kırmızı kafa bandı takıyor?
+    Cevap: Ryu
+    "Astro Boy" hangi tür video oyunudur?
+    Cevap: Aksiyon
+    "FIFA" adlı video oyununda hangi spor yer alıyor?
+    Cevap: Futbol
+    Axie Infinity ne tür bir oyundur?
+    Cevap: Blockchain oyunu
+
+    "The Farmer in the Dell"de kedi ne aldı?
+    Cevap: Sıçan
+    "Itsy Bitsy Spider" nereye tırmandı?
+    Cevap: Hortum
+    "Üç Küçük Kedi" neyi kaybetti?
+    Cevap: Eldivenlerini
+    "Baa Baa Black Sheep"in kaç torba yünü vardı?
+    Cevap: Üç
+    Jack ve Jill neden tepeye çıktılar?
+    Cevap: Bir kova su almak için
+    Bir adam sekiz gün uykusuz nasıl durabilir?
+    Cevap: Geceleri uyuyarak.
+    Çiğ yumurtayı çatlatmadan beton zemine nasıl düşürebilirsiniz?
+    Cevap: Yumurta beton zemini çatlatmaz
+    Altı elma varsa ve dördünü çıkarırsanız, kaç tane kalır?
+    Cevap: Dört
+    Yukarı aşağı giden ama yine de aynı yerde kalan şey nedir?
+    Cevap: Merdiven
+    Kurudukça daha da ıslanan şey nedir?
+    Cevap: Bir havlu
+Hangi bayram "hindi günü" olarak adlandırılır?
+Cevap: Şükran Günü
+ABD'de İşçi Bayramı hangi ayda kutlanıyor?
+Cevap: Eylül
+Kanada Günü ne zaman?
+Cevap: 1 Temmuz
+Meksika'nın Dia de los Muertos'u İngilizce'de ne anlama geliyor?
+Cevap: Ölüler Günü
+Almanya'da Oktoberfest hangi içecekle kutlanır?
+Cevap: Bira
+Birleşik Krallık'ta Haziran ayının 2. Cumartesi günü ne kutlanır? Cevap :
+Kraliçe'nin Resmi Doğum Günü
+Bastille Baskını'nı hangi ülke kutluyor?
+Cevap: Fransa
+Mahatma Gandi'nin doğum günü hangi ülkede ulusal bayramdır?
+Cevap: Hindistan
+Çin Yeni Yılı hangi gün ve ayda kutlanır?
+Cevap : 25 Ocak
+Kamboçya'da Bağımsızlık Günü ne zaman? Cevap
+: 9 Kasım
+Hangi bayram "Işık Festivali" olarak bilinir ve sekiz gün boyunca mum yakılarak kutlanır?
+Cevap: Hanuka
+Şubat ayında kutlanan, renkli geçit törenleri, maskeler ve gösterişli kostümleriyle ünlü festival hangisidir?
+Cevap: Karnaval
+Holi Festivali hangi ülkede canlı renkli tozlar ve su balonlarıyla kutlanıyor?
+Cevap: Hindistan
+Dünya çapında Müslümanlar tarafından Ramazan ayının sonunu işaret eden kutlanan bayramın adı nedir?
+Cevap: Ramazan Bayramı
+Çin Yeni Yılı'nı kutlayan ve her yıl Çin zodyağı'ndan bir hayvanla temsil edilen festival hangisidir?
+Cevap: Ay Yeni Yılı
+    Katolik İncil'de kaç kitap var?
+    Cevap: Yetmiş üç
+    5.000 kişiyi ekmeklerle birlikte beslemek için kaç balık kullanıldı?
+    Cevap: İki
+    Hangi tanrı "yıkıcı" olarak kabul edilir ve Hindu Üçlemesi'nin bir parçasıdır?
+    Cevap: Şiva
+    En genç Pandava'nın annesi kimdir?
+    Cevap: Madri
+    İslami takvim hangi döngüye dayanmaktadır?
+    Cevap: Aysal
+    İslam'ın son peygamberi kimdir?
+    Cevap: Muhammed
+    "Cohen" İbranice'de ne anlama geliyor?
+    Cevap: Rahip
+    Dini bir görev duygusuyla yapılan iyi bir eylem için kullanılan İbranice terim nedir?
+    Cevap: Mitzvah
+    Buda hangi ülkede doğdu?
+    Cevap: Nepal
+    Budizm dünyanın en büyük dini sıralamasında nerede yer alıyor?
+    Cevap: Beşinci
+    Sihizm'deki en kutsal şehir hangisidir, Altın Tapınak'a ev sahipliği yapar?
+    Cevap: Amritsar
+    Müslümanların Mekke'de bulunan başlıca hac yeri hangisidir?
+    Cevap: Kabe
+    Hinduizm'de doğum, ölüm ve yeniden doğuş döngüsü için kullanılan terim nedir?
+    Cevap: Samsara
+    Budizm'de Buda'nın öğretileri ne olarak bilinir?
+    Cevap: Dharma
+    Yahudilikte, Tanrı'nın birliğini ifade eden temel dua nedir?
+    Cevap: Şema

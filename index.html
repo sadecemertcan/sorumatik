@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="theme-color" content="#000033">
+    <title>Bilge Baykuş Trivia</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body data-theme="cyan">
+    <div class="game-container">
+        <div class="theme-controls">
+            <button id="toggleTheme" class="theme-button"><i class="fas fa-palette"></i></button>
+            <div class="color-palette">
+                <div class="color-option" data-theme="cyan"></div>
+                <div class="color-option" data-theme="pink"></div>
+                <div class="color-option" data-theme="green"></div>
+                <div class="color-option" data-theme="orange"></div>
+                <div class="color-option" data-theme="purple"></div>
+            </div>
+        </div>
+
+        <div class="main-menu">
+            <h1>Bilge Baykuş Trivia</h1>
+            <div class="money-display">Para: 0₺</div>
+            <button id="startGame" class="menu-button">OYUNU BAŞLAT</button>
+            <button id="openMarket" class="menu-button">MARKET</button>
+            <button id="restartGame" class="menu-button">YENİDEN BAŞLAT</button>
+            <button id="quitGame" class="menu-button">ÇIKIŞ</button>
+        </div>
+
+        <button id="settingsButton" class="settings-button">
+            <i class="fas fa-cog"></i>
+        </button>
+
+        <div class="game-screen" style="display: none;">
+            <div class="stats">
+                <div class="money">Para: <span id="money">0</span>₺</div>
+                <div class="level">Seviye: <span id="level">1</span></div>
+                <div class="streak">Seri: <span id="streak"> 0</span></div>
+                <div class="timer">
+                    <div class="timer-bar"></div>
+                    <div class="timer-text">10</div>
+                </div>
+            </div>
+
+            <div class="question-container">
+                <div class="category">
+                    <i class="category-icon"></i>
+                    <span class="category-text">Kategori</span>
+                </div>
+                <div id="question-text"></div>
+                <div class="options">
+                    <button class="option"></button>
+                    <button class="option"></button>
+                    <button class="option"></button>
+                    <button class="option"></button>
+                </div>
+            </div>
+
+            <div class="jokers">
+                <button id="fiftyFifty" class="joker-button">
+                    <i class="fas fa-balance-scale"></i>
+                    50:50
+                    <span class="joker-count">(0)</span>
+                </button>
+                <button id="skipQuestion" class="joker-button">
+                    <i class="fas fa-forward"></i>
+                    Geç
+                    <span class="joker-count">(0)</span>
+                </button>
+                <button id="doubleChance" class="joker-button">
+                    <i class="fas fa-dice"></i>
+                    2x Şans
+                    <span class="joker-count">(0)</span>
+                </button>
+                <button id="extraTime" class="joker-button">
+                    <i class="fas fa-clock"></i>
+                    +10 Sn
+                    <span class="joker-count">(0)</span>
+                </button>
+                <button id="doubleMoney" class="joker-button">
+                    <i class="fas fa-coins"></i>
+                    2x Para
+                    <span class="joker-count">(0)</span>
+                </button>
+                <button id="showHint" class="joker-button">
+                    <i class="fas fa-lightbulb"></i>
+                    İpucu
+                    <span class="joker-count">(0)</span>
+                </button>
+            </div>
+        </div>
+
+        <div class="market" style="display: none;">
+            <h2>Market</h2>
+            <div class="market-items">
+                <div class="market-item">
+                    <i class="fas fa-balance-scale"></i>
+                    <h3>50:50</h3>
+                    <p>İki yanlış cevabı eleyerek şansınızı artırın!</p>
+                    <button class="buy-button" data-item="fiftyFifty">300₺</button>
+                </div>
+                <div class="market-item">
+                    <i class="fas fa-forward"></i>
+                    <h3>Soru Geç</h3>
+                    <p>Zorlandığınız soruyu atlayın!</p>
+                    <button class="buy-button" data-item="skipQuestion">200₺</button>
+                </div>
+                <div class="market-item">
+                    <i class="fas fa-dice"></i>
+                    <h3>İkinci Şans</h3>
+                    <p>Yanlış cevap verdiğinizde tekrar deneme hakkı!</p>
+                    <button class="buy-button" data-item="doubleChance">400₺</button>
+                </div>
+                <div class="market-item">
+                    <i class="fas fa-clock"></i>
+                    <h3>Ekstra Süre</h3>
+                    <p>10 saniye ek süre kazanın!</p>
+                    <button class="buy-button" data-item="extraTime">250₺</button>
+                </div>
+                <div class="market-item">
+                    <i class="fas fa-coins"></i>
+                    <h3>2x Para</h3>
+                    <p>Bir sonraki doğru cevapta 2 kat para kazanın!</p>
+                    <button class="buy-button" data-item="doubleMoney">500₺</button>
+                </div>
+                <div class="market-item">
+                    <i class="fas fa-lightbulb"></i>
+                    <h3>İpucu</h3>
+                    <p>Soru için ipucu alın!</p>
+                    <button class="buy-button" data-item="showHint">350₺</button>
+                </div>
+            </div>
+            <button id="closeMarket">Geri Dön</button>
+        </div>
+
+        <div class="settings-menu" style="display: none;">
+            <div class="settings-header">
+                <h2>Ayarlar</h2>
+                <button id="closeSettings"><i class="fas fa-times"></i></button>
+            </div>
+            <div class="settings-content">
+                <button id="resumeFromSettings">Devam Et</button>
+                <button id="restartFromSettings">Yeniden Başlat</button>
+                <button id="quitFromSettings">Ana Menüye Dön</button>
+            </div>
+        </div>
+
+        <div id="notification" class="notification" style="display: none;">
+            <span class="notification-text"></span>
+        </div>
+    </div>
+
+    <script src="questions.js"></script>
+    <script src="script.js"></script>
+</body>
+</html> 
